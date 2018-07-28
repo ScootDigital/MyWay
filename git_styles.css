@@ -29,3 +29,10 @@ Front Page Modules
 [data-customize-partial-id] {
 
 }
+
+/* Text modules padding */
+#text-4, #text-6 {
+    padding: 0 30px;
+}
+
+/* "Discover More" Container */
