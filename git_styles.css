@@ -18,3 +18,13 @@ span.site-title:before {
     left: -31px;
     top: -5px;
 }
+
+
+
+
+/*=============================
+Front Page Modules
+=============================*/
+[data-customize-partial-id] {
+
+}
