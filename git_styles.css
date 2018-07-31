@@ -18,7 +18,7 @@ nav {
 
 /* Site Title */
 span.site-title:before {
-    content: url(http://www.myway.org.au/wp-content/uploads/2018/07/Compressed-MYWAY-LOGO-Colours.jpg);
+    content: url("http://www.myway.org.au/wp-content/uploads/2018/07/Compressed-MYWAY-LOGO-Colours.jpg");
     position: absolute;
     left: -31px;
     top: -5px;
