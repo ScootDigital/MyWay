@@ -48,3 +48,16 @@ Front Page Modules
 }
 
 /* "Discover More" Container */
+
+
+
+
+
+
+/*=============================
+Miscellaneous Code
+=============================*/
+/* Removing the search function */
+.module.widget-handle.search-widget-handle.hidden-xs.hidden-sm.toggle-search {
+    display: none;
+}
