@@ -30,12 +30,15 @@ span.site-title:before {
 /*=============================
 Front Page Modules
 =============================*/
-/* Slideshow container */
+/* Slideshow widget */
 .textwidget {
     padding-top: initial;
 }
 
-
+/* Slideshow container */
+.white {
+    background: rgba(0,0,0,0) !important;
+}
 
 /* All front page modules */
 [data-customize-partial-id] {
