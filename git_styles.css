@@ -25,6 +25,19 @@ span.site-title:before {
     top: -5px;
 }
 
+/* Each menu item list item */
+.main-navigation .menu > li {
+    margin: 0;
+}
+
+/* Each menu item list item hyperlink */
+.main-navigation .menu li a {
+    background: red;
+    width: 80px;
+    text-align: center;
+    margin: 0 10px;
+}
+
 
 
 /*=============================
