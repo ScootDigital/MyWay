@@ -30,6 +30,13 @@ span.site-title:before {
 /*=============================
 Front Page Modules
 =============================*/
+/* Slideshow container */
+.textwidget {
+    padding-top: initial;
+}
+
+
+
 /* All front page modules */
 [data-customize-partial-id] {
 
