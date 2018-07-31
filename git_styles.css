@@ -32,10 +32,11 @@ span.site-title:before {
 
 /* Each menu item list item hyperlink */
 .main-navigation .menu li a {
-    background: red;
+    background: rgb(2,117,216);
     width: 80px;
+    color: white;
     text-align: center;
-    margin: 0 10px;
+    margin: 0 5px;
 }
 
 
