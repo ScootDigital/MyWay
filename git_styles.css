@@ -24,6 +24,11 @@ span.site-title:before {
     top: -5px;
 }
 
+/* Entire navbar */
+.container.nav-bar {
+    width: 100%;
+}
+
 /* NavBar Menu */
 .main-navigation {
 	padding: 20px 0;
