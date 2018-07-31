@@ -29,6 +29,11 @@ span.site-title:before {
 	padding: 20px 0;
 }
 
+/* NavBar right side (menu items) */
+.module-group.right {
+    display:  flex;
+}
+
 /* Each menu item list item */
 .main-navigation .menu > li {
     margin: 0;
