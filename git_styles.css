@@ -38,6 +38,7 @@ Front Page Modules
 /* Slideshow container */
 .white {
     background: rgba(0,0,0,0) !important;
+    border-bottom: none !important;
 }
 
 /* All front page modules */
