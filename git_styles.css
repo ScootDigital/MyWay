@@ -11,6 +11,12 @@ Universal
 /*=============================
 Navbar
 =============================*/
+/* NavBar */
+nav {
+    border: none;
+}
+
+
 /* Site Title */
 span.site-title:before {
     content: url(http://www.myway.org.au/wp-content/uploads/2018/07/Compressed-MYWAY-LOGO-Colours.jpg);
@@ -18,7 +24,6 @@ span.site-title:before {
     left: -31px;
     top: -5px;
 }
-
 
 
 
