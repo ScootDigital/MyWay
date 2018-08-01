@@ -69,6 +69,14 @@ Front Page Modules
     border-bottom: none !important;
 }
 
+/* "Who is My Way?" and "What We Do?" */
+div#text-4, div#text-10 {
+    /* display:  flex; */
+    float:  left;
+    width: 50%;
+}
+
+
 /* All front page modules */
 [data-customize-partial-id] {
 
