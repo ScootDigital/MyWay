@@ -77,6 +77,11 @@ div#text-4, div#text-10 {
     text-align:  center;
 }
 
+/* Text widgets within both modules */
+div#text-4 .textwidget, div#text-10 .textwidget {
+    padding: 0 20%;
+}
+
 
 /* All front page modules */
 [data-customize-partial-id] {
