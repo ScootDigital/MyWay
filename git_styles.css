@@ -91,6 +91,11 @@ div#text-4 .textwidget, div#text-10 .textwidget {
     padding: 0 20%;
 }
 
+/* "Who is My Way?" module */
+div#text-4 {
+    background: rgb(66,66,66);
+}
+
 
 /* All front page modules */
 [data-customize-partial-id] {
