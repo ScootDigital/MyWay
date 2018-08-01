@@ -21,6 +21,11 @@ nav {
     width: 100%;
 }
 
+/* NavBar flex container */
+#site-navigation .container > .flex-row {
+    justify-content: normal;
+}
+
 /* Logo container */
 .title_logo {
     display:  flex;
