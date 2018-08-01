@@ -2,10 +2,9 @@
 Universal
 =============================*/
 /* Headers and P */
-p, h1, h2, h3, h4 {
+body p, h1, h2, h3, h4 {
     color: white;
 }
-
 
 
 
