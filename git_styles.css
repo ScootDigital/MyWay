@@ -27,6 +27,12 @@ nav {
     align-items:  center;
 }
 
+/* Logo image */
+.title_logo img {
+    width: 70px;
+}
+
+
 /* NavBar Menu */
 .main-navigation {
 	padding: 20px 0;
