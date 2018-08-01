@@ -88,7 +88,7 @@ div#text-4, div#text-10 {
 
 /* Text widgets within both modules */
 div#text-4 .textwidget, div#text-10 .textwidget {
-    padding: 0 20%;
+    padding: 5% 20%;
 }
 
 /* "Who is My Way?" module */
