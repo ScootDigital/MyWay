@@ -81,12 +81,12 @@ Front Page Modules
     padding-top: initial;
 }
 
-/* Text widgets within both modules */
-div#text-4 .textwidget, div#text-10 .textwidget {
-    padding: 0 20%;
-    display:  flex;
-    height: 439px;
-    align-items:  center;
+/* "Who is My Way?" and "What We Do?" */
+div#text-4, div#text-10 {
+    /* display:  flex; */
+    float:  left;
+    width: 50%;
+    text-align:  center;
 }
 
 /* Text widgets within both modules */
