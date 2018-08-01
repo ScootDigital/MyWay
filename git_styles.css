@@ -81,12 +81,6 @@ Front Page Modules
     padding-top: initial;
 }
 
-/* Slideshow container */
-.white {
-    background: rgba(0,0,0,0) !important;
-    border-bottom: none !important;
-}
-
 /* "Who is My Way?" and "What We Do?" */
 div#text-4, div#text-10 {
     /* display:  flex; */
