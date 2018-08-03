@@ -94,6 +94,7 @@ div#text-4, div#text-10 {
     width: 50%;
     text-align:  center;
     height: 400px;
+    padding: 0 5%;
 }
 
 /* Push the text to the middle */
