@@ -93,7 +93,14 @@ div#text-4, div#text-10 {
     float: left;
     width: 50%;
     text-align:  center;
+    height: 400px;
 }
+
+/* Push the text to the middle */
+div#text-4 .textwidget, div#text-10 .textwidget {
+    transform: translate(0, 120px);
+}
+
 
 /* Text widgets within both modules */
 div#text-4 .textwidget, div#text-10 .textwidget {
