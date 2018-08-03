@@ -90,7 +90,8 @@ Front Page Modules
 
 /* "Who is My Way?" and "What We Do?" */
 div#text-4, div#text-10 {
-    /* display:  flex; */
+    float: left;
+    width: 50%;
     text-align:  center;
 }
 
