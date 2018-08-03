@@ -112,6 +112,7 @@ div#text-10 {
 /* "Discover More" container */
 div#custom_html-10 {
     background:  #0275d8;
+    clear: both;
     display: flex;
     padding: 5%;
 }
