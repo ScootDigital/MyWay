@@ -97,7 +97,6 @@ div#text-10 {
     background: rgb(62,180,5);
 }
 
-
 /* "Discover More" container */
 div#custom_html-10 {
     background:  #0275d8;
@@ -108,7 +107,6 @@ div#custom_html-10 {
 .discover_more {
     display: flex;
 }
-
 
 /* "Discover More" individual text containers */
 .discover_more div {
