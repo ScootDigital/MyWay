@@ -104,13 +104,18 @@ div#custom_html-10 {
     display: flex;
 }
 
-
-
 /* "Discover More" text container */
 .discover_more {
     display: flex;
 }
 
+
+/* "Discover More" individual text containers */
+.discover_more div {
+    width: 33.33%;
+    width: calc(100% / 3);
+    text-align: center;
+}
 
 /* Newsletter module */
 div#text-6 {
