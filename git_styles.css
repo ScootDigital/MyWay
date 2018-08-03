@@ -101,6 +101,7 @@ div#text-10 {
 div#custom_html-10 {
     background:  #0275d8;
     display: flex;
+    padding: 2%;
 }
 
 /* "Discover More" text container */
