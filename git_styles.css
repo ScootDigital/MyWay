@@ -116,6 +116,13 @@ div#custom_html-10 {
     text-align: center;
 }
 
+/* "Discover More" images */
+.discover_more img {
+    width: 300px;
+    padding-bottom: 10px;
+}
+
+
 /* Newsletter module */
 div#text-6 {
     background: #3eb405;
