@@ -104,6 +104,8 @@ div#custom_html-10 {
     display: flex;
 }
 
+
+
 /* "Discover More" text container */
 .discover_more {
     display: flex;
@@ -134,4 +136,9 @@ Miscellaneous Code
 /* Removal of top slideshow dots*/
 #custom_html-6 .owl-dots {
     display: none;
+}
+
+/* Force the width to 100% for the services module */
+div#custom_html-10 .textwidget.custom-html-widget {
+    width: 100%
 }
