@@ -98,12 +98,16 @@ div#text-10 {
 }
 
 
-/* "Discover More" Container */
+/* "Discover More" container */
 div#custom_html-10 {
     background:  #0275d8;
     display: flex;
 }
 
+/* "Discover More" text container */
+.discover_more {
+    display: flex;
+}
 
 
 /* Newsletter module */
