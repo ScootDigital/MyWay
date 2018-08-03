@@ -76,11 +76,6 @@ Front Page Modules
 
 }
 
-/* Slideshow widget */
-.textwidget {
-    padding-top: initial;
-}
-
 /* "Who is My Way?" and "What We Do?" */
 div#text-4, div#text-10 {
     /* display:  flex; */
@@ -124,4 +119,14 @@ Miscellaneous Code
 /* Removing the search function */
 .search {
     display:  none;
+}
+
+/* Removing the unremovable white space below the top slideshow */
+#custom_html-6 {
+    margin-bottom: -22px;   
+}
+
+/* Removal of top slideshow dots*/
+#custom_html-6 .owl-dots {
+    display: none;
 }
