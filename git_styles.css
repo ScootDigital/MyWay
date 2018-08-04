@@ -99,9 +99,8 @@ div#text-4, div#text-10 {
 
 /* Push the text to the middle */
 div#text-4 .textwidget, div#text-10 .textwidget {
-    transform: translate(0, 120px);
+    transform: translate(0, 35%);
 }
-
 
 /* Text widgets within both modules */
 div#text-4 .textwidget, div#text-10 .textwidget {
