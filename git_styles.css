@@ -74,6 +74,13 @@ nav {
     margin: 0 5px;
 }
 
+/* Each menu item list item hyperlink hover */
+.main-navigation .menu li a:hover {
+    background: rgba(0,0,0,0);
+    color: black;
+    border: 1px solid #0275d8;
+}
+
 
 /*=============================
 Front Page Modules
