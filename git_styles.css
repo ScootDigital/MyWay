@@ -157,11 +157,12 @@ section.page-title-section.bg-secondary {
 
 /* H3 within Header Module */
 section.page-title-section.bg-secondary h3.page-title {
-    font-size: xx-large;
+    font-size: 3em;
+     letter-spacing: 2px;
+    text-align: center;
     color: white;
     text-shadow: 1px 1px 1px black;
 }
-
 
 /*=============================
 Miscellaneous Code
