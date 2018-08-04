@@ -151,6 +151,18 @@ div#text-6 {
 }
 
 
+/*=============================
+Subpage Modules
+=============================*/
+/* Header Module */
+section.page-title-section.bg-secondary {
+    background:  #424242;
+}
+
+/* H3 within Header Module */
+section.page-title-section.bg-secondary h3.page-title {
+    font-size: xx-large;
+}
 
 /*=============================
 Miscellaneous Code
