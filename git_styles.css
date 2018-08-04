@@ -72,6 +72,7 @@ nav {
     color: white;
     text-align: center;
     margin: 0 5px;
+    border: 1px solid rgba(0,0,0,0);
 }
 
 /* Each menu item list item hyperlink hover */
