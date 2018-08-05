@@ -1,6 +1,13 @@
 /*=============================
 Universal
 =============================*/
+/* P and Ul styles */
+p,ul {
+    color: initial;
+    font-size: 1.2em;
+}
+
+
 /* Green button */
 a.green_button {
     background: #3eb405;
