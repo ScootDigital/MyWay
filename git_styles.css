@@ -181,6 +181,20 @@ div#text-6 {
     padding: 5% 20%;
 }
 
+@media only screen and (max-width: 863px) {
+    /* "Who is My Way?" and "What We Do?" */
+    div#text-4, div#text-10 {
+        float: none;
+        width: 100%;
+        height: auto;
+    }
+
+    /* Push the text to initial status*/
+    div#text-4 .textwidget, div#text-10 .textwidget {
+        transform: translate(0, 0);
+    }
+}
+
 
 /*=============================
 Subpage Modules
