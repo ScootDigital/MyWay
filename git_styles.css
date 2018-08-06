@@ -102,7 +102,7 @@ nav {
 }
 
 /* Drop down list items hover */
-.main-navigation .menu > li > ul li a:hover {
+.main-navigation .menu > li > ul li a:hover, .main-navigation .menu li:hover > a, .dropdown:after:hover {
     color: black;
 }
 
