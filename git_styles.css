@@ -96,6 +96,16 @@ nav {
     border: 1px solid #0275d8;
 }
 
+/* Drop down list items */
+.main-navigation .menu > li > ul li a {
+    color: white;
+}
+
+/* Drop down list items hover */
+.main-navigation .menu > li > ul li a:hover {
+    color: black;
+}
+
 
 
 /*=============================
