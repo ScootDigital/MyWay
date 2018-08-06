@@ -7,6 +7,11 @@ p,ul {
     font-size: 1.2em;
 }
 
+/* Specific list item styles */
+li {
+    color: initial;
+}
+
 
 /* Green button */
 a.green_button {
