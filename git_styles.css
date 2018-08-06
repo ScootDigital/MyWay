@@ -2,7 +2,7 @@
 Universal
 =============================*/
 /* P and Ul styles */
-p,ul {
+p {
     color: initial;
     font-size: 1.2em;
 }
@@ -10,7 +10,11 @@ p,ul {
 /* Specific list item styles */
 li {
     color: initial;
+    font-size: 16px;
 }
+
+
+
 
 
 /* Green button */
