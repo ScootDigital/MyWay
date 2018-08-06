@@ -79,7 +79,6 @@ nav {
 /* Each menu item list item hyperlink */
 .main-navigation .menu li a {
     background: rgb(2,117,216);
-    color: white !important;
     width: 110px;
     border: 1px solid rgba(0,0,0,0);
 }
