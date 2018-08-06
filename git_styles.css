@@ -106,6 +106,10 @@ nav {
     color: black;
 }
 
+/* Drop down list items active */
+.main-navigation .dropdown-menu > .active > a, .main-navigation .dropdown-menu > .active > a:focus {
+    color: black;
+}
 
 
 /*=============================
