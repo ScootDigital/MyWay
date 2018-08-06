@@ -86,12 +86,12 @@ nav {
 
 /* Dropdown arrow on menu item */
 .dropdown:after {
-    right: 8px;
+    right: 6px;
 }
 
 /* Each menu item list item hyperlink hover */
 .main-navigation .menu li a:hover {
-    background: rgba(0,0,0,0);
+    background: white;
     color: black;
     border: 1px solid #0275d8;
 }
