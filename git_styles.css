@@ -182,7 +182,7 @@ div#text-6 {
 }
 
 @media only screen and (max-width: 863px) {
-    /* "Who is My Way?" and "What We Do?" */
+    /* "Who is My Way?" and "What We Do?" */ 
     div#text-4, div#text-10 {
         float: none;
         width: 100%;
@@ -192,6 +192,24 @@ div#text-6 {
     /* Push the text to initial status*/
     div#text-4 .textwidget, div#text-10 .textwidget {
         transform: translate(0, 0);
+    }
+
+    /* "Discover More" container */
+    div#custom_html-10 {
+        display: block;
+    }
+
+    /* "Discover More" text container */
+    .discover_more {
+        display: block;
+    }
+
+    /* "Discover More" individual text containers */
+    .discover_more div {
+        width: 100% !important;
+        text-align: center;
+        padding: 20px 0;
+
     }
 }
 
