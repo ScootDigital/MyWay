@@ -81,6 +81,7 @@ nav {
     background: rgb(2,117,216);
     width: 110px;
     border: 1px solid rgba(0,0,0,0);
+    color: white;
 }
 
 /* Dropdown arrow on menu item */
