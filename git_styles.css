@@ -72,6 +72,7 @@ nav {
     margin: 0;
     background: rgb(2,117,216);
     text-align: center;
+    color: white;
     margin: 0 5px;
 }
 
@@ -83,12 +84,17 @@ nav {
     border: 1px solid rgba(0,0,0,0);
 }
 
+.dropdown:after {
+    right: 8px;
+}
+
 /* Each menu item list item hyperlink hover */
 .main-navigation .menu li a:hover {
     background: rgba(0,0,0,0);
     color: black;
     border: 1px solid #0275d8;
 }
+
 
 
 /*=============================
