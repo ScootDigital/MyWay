@@ -92,7 +92,7 @@ nav {
 /* Each menu item list item hyperlink hover */
 .main-navigation .menu li a:hover {
     background: white;
-    color: black;
+    color: black !important;
     border: 1px solid #0275d8;
 }
 
