@@ -28,6 +28,20 @@ a.green_button {
     color: black;
 }
 
+/* Blue button */
+a.blue_button {
+    background: #0275d8;
+    color: white;
+    padding: 15px 40px;
+    border: 1px solid black;
+    transition: .4s;
+}
+
+/* Green button hover */
+.blue_button:hover {
+    background: white;
+    color: black;
+}
 
 /*=============================
 Navbar
