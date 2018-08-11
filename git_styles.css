@@ -18,8 +18,8 @@ li {
     border-color: #0275d8;
 }
 
-/* Posts meta */
-.post-content .post-meta li a:hover, .post-content .post-meta li a:focus {
+/* Posts content */
+.post-content .post-meta li a:hover, .post-content .post-meta li a:focus, .post-content .post-meta li a {
     color: #0275d8;
 }
 
