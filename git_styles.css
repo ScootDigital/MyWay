@@ -18,6 +18,11 @@ li {
     border-color: #0275d8;
 }
 
+/* Posts meta */
+.post-content .post-meta li a:hover, .post-content .post-meta li a:focus {
+    color: #0275d8;
+}
+
 /* Green button */
 a.green_button {
     background: #3eb405;
