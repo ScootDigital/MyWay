@@ -257,6 +257,23 @@ section.page-title-section.bg-secondary h3.page-title {
     text-shadow: 1px 1px 1px black;
 }
 
+
+/*=============================
+Contact Page
+=============================*/
+/* Submit button */
+input.wpcf7-form-control.wpcf7-submit {
+    background-color: #0275d8;
+    border: #0275d8;
+    transition: .4s;
+}
+
+input.wpcf7-form-control.wpcf7-submit:hover {
+    background: white;
+    color: #333;
+    border: 1px solid #0275d8;
+}
+
 /*=============================
 Miscellaneous Code
 =============================*/
