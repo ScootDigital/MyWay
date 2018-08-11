@@ -102,6 +102,12 @@ nav {
     display:  flex;
 }
 
+/* Parent menu item on hover */
+.main-navigation .menu li a:hover, .main-navigation .menu li:hover > a, .main-navigation .menu > li:hover:after {
+    color: white;
+}
+
+
 /* Each menu item list item */
 .main-navigation .menu > li {
     margin: 0;
