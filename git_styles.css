@@ -13,6 +13,12 @@ li {
     font-size: 16px;
 }
 
+/* Table elements */
+td {
+    color: #333;
+}
+
+
 /* All input fields */
 .widget.widget_search .search-form > input#s:hover, .widget.widget_search .search-form > input#s:focus, .widget_product_search .woocommerce-product-search > input.search-field:hover, .widget_product_search .woocommerce-product-search > input.search-field:focus, textarea:hover, textarea:focus, input[type="text"]:hover, input[type="search"]:hover, input[type="email"]:hover, input[type="tel"]:hover, input[type="text"]:focus, input[type="search"]:focus, input[type="email"]:focus, input[type="tel"]:focus {
     border-color: #0275d8;
