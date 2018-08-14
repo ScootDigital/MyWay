@@ -315,6 +315,12 @@ Footer
     background: #1ea1f3 !important;
 }
 
+/* Social media on hover */
+.simple-social-icons ul li a:hover, .simple-social-icons ul li a:focus {
+    background: white !important;
+    color: #0e1015 !important;
+}
+
 
 
 /*=============================
