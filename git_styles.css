@@ -162,7 +162,7 @@ Front Page Modules
 }
 
 /* Slider H1 */
-.owl-stage-outer h1 {
+.owl-stage-outer h2 {
     color: white;
     text-shadow: 2px 2px #333;
 }
