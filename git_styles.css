@@ -270,6 +270,16 @@ section.page-title-section.bg-secondary h3.page-title {
     text-shadow: 1px 1px 1px black;
 }
 
+/* Timeline container */
+.timeline {
+    border-left: 6px solid #0275d8;
+    padding-left: 15px;
+}
+
+/* Timeline h3 */
+.timeline h3 {
+    border-bottom: 3px solid #6ebe4b;
+}
 
 /*=============================
 Contact Page
