@@ -288,6 +288,26 @@ input.wpcf7-form-control.wpcf7-submit:hover {
 }
 
 /*=============================
+Footer
+=============================*/
+/* Facebook icon */
+.simple-social-icons ul li.ssi-facebook a {
+    background: #3b5998 !important;
+}
+
+/* Linkedin icon */
+.simple-social-icons ul li.ssi-linkedin a {
+    background: #0077b5 !important;
+}
+
+/* Twitter icon */
+.simple-social-icons ul li.ssi-twitter a {
+    background: #1ea1f3 !important;
+}
+
+
+
+/*=============================
 Miscellaneous Code
 =============================*/
 /* Removing the search function */
