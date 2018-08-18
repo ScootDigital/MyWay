@@ -53,11 +53,12 @@ a.blue_button {
     transition: .4s;
 }
 
-/* Green button hover */
+/* Blue button hover */
 .blue_button:hover {
     background: white;
     color: black;
 }
+
 
 /*=============================
 Navbar
