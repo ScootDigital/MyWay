@@ -213,7 +213,8 @@ div#custom_html-10 {
 
 /* "Discover More" images */
 .discover_more img {
-    width: 300px;
+    height: 210px;
+    padding-bottom: 10px;
     padding-bottom: 10px;
 }
 
