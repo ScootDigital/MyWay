@@ -311,16 +311,19 @@ Footer
 /* Facebook icon */
 .simple-social-icons ul li.ssi-facebook a {
     background: #3b5998 !important;
+    transition: .1s;
 }
 
 /* Linkedin icon */
 .simple-social-icons ul li.ssi-linkedin a {
     background: #0077b5 !important;
+    transition: .1s;
 }
 
 /* Twitter icon */
 .simple-social-icons ul li.ssi-twitter a {
     background: #1ea1f3 !important;
+    transition: .1s;
 }
 
 /* Social media on hover */
