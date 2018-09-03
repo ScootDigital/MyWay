@@ -82,7 +82,7 @@ nav {
 
 /* Logo image */
 .title_logo img {
-    width: 70px;
+    width: 125px;
 }
 
 /* Title text */
@@ -90,12 +90,6 @@ nav {
     margin-bottom:  0;
     padding: 0 0 0 10px;
         color: #333 !important;
-}
-
-
-/* NavBar Menu */
-.main-navigation {
-	padding: 20px 0;
 }
 
 /* NavBar right side (menu items) */
