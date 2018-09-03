@@ -80,9 +80,10 @@ nav {
 }
 
 
-/* Logo image */
+/* Logo */
 .title_logo img {
     width: 125px;
+    transform: translate(0,-9px);
 }
 
 /* Title text */
